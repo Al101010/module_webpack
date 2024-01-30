@@ -11,7 +11,7 @@ node.js установлен
   git commit -m "first commit"
   git push
 alexgithub
-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
+(токен)
 
 
 cd C:\_Alex\_netology.ru\GitHub\module_webpack
@@ -24,3 +24,7 @@ npm run build //проверяем(npm run build) - работает(ошибо�
 npm install --seve-dev html-webpack-plugin
 
 
+
+cd C:\_Alex\_netology.ru\GitHub\module_webpack
+npm run build
+npm start
